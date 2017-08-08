@@ -1,2 +1,4 @@
 # Trial
-This is a trial for learning purposes.
+## Arjun's first repository
+
+- Understanding how Github works
