@@ -7,3 +7,5 @@ Wazuuup!
 Nm, hru?
 Doin aite. Bout to head to the gym.
 Buhbye!
+
+Tchao!
