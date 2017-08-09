@@ -1,2 +1,11 @@
 # Trial
-This is a trial for learning purposes.
+## Arjun's first repository
+
+- Understanding how Github works
+
+Wazuuup!
+Nm, hru?
+Doin aite. Bout to head to the gym.
+Buhbye!
+
+Tchao!
